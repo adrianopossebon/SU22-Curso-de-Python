@@ -1,10 +1,10 @@
 # Para Começar a Programar: Curso de Básico de Python
 
-Este curso fez parte da Semana Universitária 2022 da Universidade de Brasília, evento que teve como tema a comemoração dos 100 anos de Darcy Ribeiro e dos 60 anos da UnB.
+Este curso faz parte da Semana Universitária 2022 da Universidade de Brasília, evento que tem como tema a comemoração dos 100 anos de Darcy Ribeiro e dos 60 anos da UnB.
 
 ![imagem](logoSU222.jpeg)
 
-Mais informações sobre SU22 podem ser encontradas em
+Mais informações sobre a SU22 podem ser encontradas em
 
 http://dex.unb.br/semanauniversitariaunb
 
