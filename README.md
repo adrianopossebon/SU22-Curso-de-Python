@@ -28,6 +28,4 @@ e em formato html,
 
 > **SU22_Curso_de_Python_Jupyter.html**
 
-Link para o grupo no WhatsApp: https://chat.whatsapp.com/IrzMDHHudNEIsa1zfKdksZ 
-
 Se você tiver críticas, sugestões e/ou comentários sobre este material por favor me envie uma mensagem (aprosa@unb.br).
