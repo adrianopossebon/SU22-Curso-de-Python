@@ -8,7 +8,7 @@ Mais informações sobre a SU22 podem ser encontradas em
 
 http://dex.unb.br/semanauniversitariaunb
 
-O curso, ministrado por Adriano Possebon Rosa, professor da Faculdade de Tecnologia da UnB, acontecey entre os dias 29/08/2022 e 02/09/2022. 
+O curso, ministrado por Adriano Possebon Rosa, professor da Faculdade de Tecnologia da UnB, aconteceu entre os dias 29/08/2022 e 02/09/2022. 
 
 Foram 5 aulas no total, com 2 horas cada. 
 
